@@ -1,0 +1,14 @@
+{
+  "M001": {
+    "aluno": "Lia Aurora",
+    "curso": "Python Essencial",
+    "status": "ativa",
+    "cancelamento_solicitado": false
+  },
+  "M002": {
+    "aluno": "Caio Nuvem",
+    "curso": "Dados Aplicados",
+    "status": "ativa",
+    "cancelamento_solicitado": false
+  }
+}
